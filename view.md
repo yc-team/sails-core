@@ -1,6 +1,8 @@
 view
 ==========
 
+[参考](https://github.com/balderdashy/sails-docs/blob/master/concepts/Views/Views.md)
+
 默认的模板支持是EJS，其他也可以配置的，但是需要安装对应的包，比如jade
 
 EJS的3种模板标记：
