@@ -1,6 +1,9 @@
 Services
 ==========
 
+[参考](https://github.com/balderdashy/sails-docs/blob/master/concepts/Services/Services.md)
+
+
 #### 简介
 
 Services可以被认为会在你的应用的很多地方的都会用到的库 - 包含一些方法。
