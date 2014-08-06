@@ -1,6 +1,9 @@
 policies
 ==========
 
+[参考](https://github.com/balderdashy/sails-docs/blob/master/concepts/Policies/Policies.md)
+
+
 在Sails里面，policies对于授权和访问控制都是很好的工具：可以很好地同意和拒绝访问你的controlls。
 
 举例：比如我们做一个Dropbox，在让一个用户上传一个文件到一个目录的时候，你会去检查她是不是授权的，然后再确认她是不是有写的权限，最后，你会检查她上传的这个目录有没有足够的空间。
