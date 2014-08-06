@@ -1,6 +1,8 @@
 globals
 ==========
 
+[参考](https://github.com/balderdashy/sails-docs/blob/master/concepts/Globals/Globals.md)
+
 #### 概要
 
 为了方便，Sails暴露了一些有用的全局变量。
