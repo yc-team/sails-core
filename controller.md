@@ -1,6 +1,8 @@
 controllers
 ==========
 
+[参考](https://github.com/balderdashy/sails-docs/blob/master/concepts/Controllers/Controllers.md)
+
 C in MVC
 
 尝尝扮演着models和views的中间人。
